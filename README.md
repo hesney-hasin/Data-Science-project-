@@ -34,6 +34,4 @@ To run these notebooks, you'll need:
 
 hesneyhasin
 
-## License
 
-Please refer to the LICENSE file for licensing information.
